@@ -1,0 +1,10 @@
+운영체제실습
+is
+is -al
+date
+sudo passwd root
+su - root
+exit
+apt-get install   -> 업데이트 불가능
+sudo apt-get install -> 업데이트 가능
+

@@ -1,0 +1,8 @@
+cat명령어 -> 안의 내용보기
+more | more
+
+tail -f 
+history 
+!c
+more .bash history
+grep -> 보고싶은 부분을 보여준다

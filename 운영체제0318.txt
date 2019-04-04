@@ -1,0 +1,19 @@
+ whereis ssh
+cd/ etc/ssh
+ll
+pwd
+ls
+ls -al | grep ssh
+netstat
+netstat -anpt
+netstat -anpt | grep 22
+vi sshd_config
+
+su - root
+cd /etc/ssh
+vi /etc/ssh/sshd_config
+/prohibit
+o
+PermitRootLogin yes
+esc-> :-> wq
+shutdown -h now-> Á¾·á
